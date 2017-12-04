@@ -1,9 +1,9 @@
 penyewa
 - mendaftar
-- melihat informasi sewa lapangan
-- melihat informasi sewa alat
-- melakuan reservasi lapangan
-- melakukan reservasi alat
-- mengubah jadwal reservasi
-- memberikan kritik dan saran
+- melihat informasi sewa lapangan done
+- melihat informasi sewa alat done
+- melakuan reservasi lapangan done
+- melakukan reservasi alat done
+- mengubah jadwal reservasi done
+- memberikan kritik dan saran done
 -
