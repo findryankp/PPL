@@ -7,3 +7,13 @@ penyewa
 - mengubah jadwal reservasi done
 - memberikan kritik dan saran done
 -
+
+kelas
+alat
+reservasiAlat 
+lapangan
+reservasiLapangan
+penyewa
+admin
+transaksi_jadwal_reservasi
+
